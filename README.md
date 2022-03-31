@@ -7,6 +7,9 @@ With more platforms adopting own monetization models, the dangers of platforms m
 
 ![Influencer extension flow](./docs/screens-influ.png)
 
+## Demo video
+- https://github.com/vjaiman/webmon-extension/blob/main/Webmon-browserextension.mp4
+
 ## Develop
 ### Install and develop
 To first load the extension in the Chrome browser, 
