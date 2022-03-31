@@ -24,6 +24,9 @@ If you make changes to the extension's codebase, you need to **update** it in or
 - Reload by pressing the circular arrow next to the name
 - Changes will be show
 
+If you would like to make changes in the smart contract, you can find the location here:
+- https://github.com/vjaiman/webmon-extension/tree/main/LUCE-API/luce_vm/luce_django/luce/utils/data
+
 ### Structure
 The browser extension is structured as it follows:
 - **`injectbutton.js`**: the script injecting the _donate_ button on the Youtube page and allows donors to interact with the campaign created by the video's uploader
