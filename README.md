@@ -36,7 +36,6 @@ The browser extension is structured as it follows:
 
 ## Resources
 - **Monetizing Philanthropy Repositories**
-    - LUCE & Users API: https://github.com/maastrichtlawtech/webmon-LUCE-API 
     - LUCE Docker Image: https://github.com/vjaiman/LUCE
     - LUCE Interledger Integrations: https://github.com/alfa-yohannis/LUCE/tree/master/interledger
 - **Monetizing Philanthropy Articles**
